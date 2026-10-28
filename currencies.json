@@ -1,0 +1,6 @@
+[
+  { "currency_code": "USD", "currency_name": "Доллар США", "exchange_rate": 92.4, "flag_url": "https://flagcdn.com/w80/us.png" },
+  { "currency_code": "EUR", "currency_name": "Евро", "exchange_rate": 100.1, "flag_url": "https://flagcdn.com/w80/eu.png" },
+  { "currency_code": "CNY", "currency_name": "Китайский юань", "exchange_rate": 12.7, "flag_url": "https://flagcdn.com/w80/cn.png" },
+  { "currency_code": "KZT", "currency_name": "Казахстанский тенге", "exchange_rate": 0.19, "flag_url": "https://flagcdn.com/w80/kz.png" }
+]
